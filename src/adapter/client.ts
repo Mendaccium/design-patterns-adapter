@@ -11,3 +11,4 @@ function validaEmail(emailValidator: EmailValidatorProtocol, email: string): voi
 
 validaEmail(new EmailValidatorAdapter(), "antunes.f@gmail.com");
 
+
