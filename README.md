@@ -1,0 +1,2 @@
+# design-patterns-adapter
+ Adapter
